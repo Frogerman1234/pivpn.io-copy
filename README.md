@@ -1,5 +1,6 @@
 > [!WARNING]
 > PiVPN is maintained on a best-effort basis, please read more about it [here](https://github.com/pivpn/pivpn/releases/tag/v4.6.1). Previous announcement is [here](https://github.com/pivpn/pivpn/releases/tag/v4.6.0).
+> This is also a Copy of that website i dont own it all credit to creators i just wanted a fork of it for my own uses
 
 [![Build Status](https://travis-ci.com/pivpn/pivpn.io.svg?branch=master)](https://travis-ci.com/pivpn/pivpn.io)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
